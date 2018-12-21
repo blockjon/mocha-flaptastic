@@ -1,0 +1,26 @@
+{
+  "name": "mocha-flaptastic",
+  "version": "0.0.1",
+  "description": "mocha flaptastic plugin",
+  "main": "lib/mocha-flaptastic.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blockjon/mocha-flaptastic.git"
+  },
+  "keywords": [
+    "mocha",
+    "flaptastic"
+  ],
+  "author": "Jonathan Block <block.jon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockjon/mocha-flaptastic/issues"
+  },
+  "homepage": "https://github.com/blockjon/mocha-flaptastic#readme"
+}
