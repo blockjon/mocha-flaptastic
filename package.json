@@ -17,7 +17,7 @@
     "mocha",
     "flaptastic"
   ],
-  "author": "Jonathan Block <block.jon@gmail.com>",
+  "author": "Jonathan Block <block.jon@gmail.com> (https://www.flaptastic.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blockjon/mocha-flaptastic/issues"
