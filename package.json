@@ -1,6 +1,6 @@
 {
   "name": "mocha-flaptastic",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "mocha flaptastic plugin",
   "main": "lib/mocha-flaptastic.js",
   "directories": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/blockjon/mocha-flaptastic/issues"
   },
-  "homepage": "https://github.com/blockjon/mocha-flaptastic#readme"
+  "homepage": "https://github.com/blockjon/mocha-flaptastic#readme",
+  "dependencies": {
+    "sync-request": "^6.0.0"
+  }
 }
